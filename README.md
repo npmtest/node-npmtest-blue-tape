@@ -1,6 +1,6 @@
 # npmtest-blue-tape
 
-#### test coverage for  [blue-tape (v1.0.0)](https://github.com/spion/blue-tape#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-blue-tape.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-blue-tape) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-blue-tape.svg)](https://travis-ci.org/npmtest/node-npmtest-blue-tape)
+#### basic test coverage for  [blue-tape (v1.0.0)](https://github.com/spion/blue-tape#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-blue-tape.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-blue-tape) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-blue-tape.svg)](https://travis-ci.org/npmtest/node-npmtest-blue-tape)
 
 #### Tape test runner with promise support
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-blue-tape/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-blue-tape/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-blue-tape/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-blue-tape/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-blue-tape/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-blue-tape/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-blue-tape/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-blue-tape/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-blue-tape/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-blue-tape/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-blue-tape/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-blue-tape/build/coverage.html/index.html)
 
